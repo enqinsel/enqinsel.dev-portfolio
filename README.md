@@ -1,2 +1,1 @@
-# enqinsel.dev-portfolio
-My portfolio for my job
+[Go to My Portfolio!](https://resume-enqinsel.netlify.app/)
